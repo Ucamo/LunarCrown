@@ -12,7 +12,7 @@ presskit_download_link                    : https://emilbaehr.com               
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Dots of War                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : LunarCrown is developing Dots of War, a fast paced strategy games for mobile. Want to try our game? <a href="https://docs.google.com/forms/d/1_C6KJVQeqUAlWpu1KjdEBbpgDMwz4yUw6Xi7V3pp0K4">Join our Alpha</a>
+app_description                           : LunarCrown is developing Dots of War, a fast paced strategy games for mobile. Want to try our game? <a href="https://docs.google.com/forms/d/1_C6KJVQeqUAlWpu1KjdEBbpgDMwz4yUw6Xi7V3pp0K4"> Join our Alpha </a>
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
