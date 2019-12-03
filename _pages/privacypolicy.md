@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Privacy Policy
-include_in_header: false
+include_in_header: true
 ---
 
 **Last updated**  
-August 1 2019
+December 3 2019
 
 # Privacy Policy
 The term "personal information" as used herein is defined as any information that identifies or can be used to identify, contact or locate the person to whom the information belongs. The personal information we collect will be subject to this privacy policy, and will be modified from time to time.
