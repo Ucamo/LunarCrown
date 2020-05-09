@@ -20,8 +20,15 @@ Choose one of the three clans available to compete online.
 
 The objective is simple: Forming a square with four lines will capture the terrain, once you do it you will have an extra turn. You can use your ability to prevent your opponent from using combos!
 
+# Trailer
+[![Dots of War trailer](https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/Presskit_Dots_of_War/Captura_video.PNG)](https://www.youtube.com/watch?v=dkBLGVO7Sc4)
+
+# Screenshots
 <img width="50%" height="50%" src="https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/Presskit_Dots_of_War/Gameplay_3.PNG">
 <img width="50%" height="50%" src="https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/Presskit_Dots_of_War/Selection_menu.PNG">
+
+
+<a href="https://github.com/Ucamo/LunarCrown/blob/master/Screenshots_Dots_of_War.rar?raw=true">Download all screenshots and Photos as a .zip (17.7MB)</a>
 
 
 Dots of War allows you to compete against players from all over the world and appear in the world ranking with the best players.
@@ -37,8 +44,30 @@ Dots of War allows you to compete against players from all over the world and ap
 
 -------------------------------
 
+# Contact
+
 ## <a href="https://www.facebook.com/lunarcrown">LET'S BE FRIENDS ON FACEBOOK</a>
 
 ## <a href="https://www.twitter.com/LunarCrownGames/">FOLLOW US ON TWITTER</a>
 
 ## <a href="http://www.lunarcrown.com/">OFFICIAL SITE</a>
+
+## Inquiries : hello@lunarcrown.com
+
+# Team
+### Game Design, 2D art 
+- Arvin Valenzuela
+
+### UX-UI, Quality Assurance
+- José Miguel Agulo
+
+### Art Director, 2D art
+- Roberto Carlos Nuñez López
+
+### 3D art
+- Mariel Rojas Pérez
+- Sergio Mireles
+
+### Programming
+- Antonio Martinez
+- Uriel Carrillo
