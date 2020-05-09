@@ -10,6 +10,9 @@ include_in_header: true
 
 ## The new way to play connect the dots with a fantastic medieval twist
 
+<a class="playStoreLink" href="{{site.playstore_link}}"><img class="playStore" src="https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/playstore.png"></a>
+<a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/appstore.png"></a>
+
 
 The best game to demonstrate your skill with puzzles
 Dots of War is an addictive and competitive puzzle game (based on dots and boxes or Timbiriche) in which you have to connect points with lines to gain ground against your opponent.
