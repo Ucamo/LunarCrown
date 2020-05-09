@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Privacy Policy
-include_in_header: false
+title: Dots of War
+include_in_header: true
 ---
 
 # Dots of War - Connect the dots
