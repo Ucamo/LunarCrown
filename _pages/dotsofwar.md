@@ -23,7 +23,7 @@ The objective is simple: Forming a square with four lines will capture the terra
 [![Dots of War trailer](https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/Presskit_Dots_of_War/Captura_video.PNG)](https://www.youtube.com/watch?v=dkBLGVO7Sc4)
 
 # Screenshots
-<img width="50%" height="50%" src="https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/Presskit_Dots_of_War/Gameplay_3.PNG">
+<img width="50%" height="50%" src="https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/Presskit_Dots_of_War/gif31.gif">
 <img width="50%" height="50%" src="https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/Presskit_Dots_of_War/Selection_menu.PNG">
 
 
