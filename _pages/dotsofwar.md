@@ -6,6 +6,7 @@ include_in_header: true
 
 # Dots of War - Connect the dots
 
+<img width="50%" height="50%" src="https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/Presskit_Dots_of_War/logopuntos.png">
 
 ## The new way to play connect the dots with a fantastic medieval twist
 
@@ -15,6 +16,10 @@ Dots of War is an addictive and competitive puzzle game (based on dots and boxes
 Choose one of the three clans available to compete online.
 
 The objective is simple: Forming a square with four lines will capture the terrain, once you do it you will have an extra turn. You can use your ability to prevent your opponent from using combos!
+
+<img width="50%" height="50%" src="https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/Presskit_Dots_of_War/Gameplay_3.PNG">
+<img width="50%" height="50%" src="https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/Presskit_Dots_of_War/Selection_menu.PNG">
+
 
 Dots of War allows you to compete against players from all over the world and appear in the world ranking with the best players.
 
