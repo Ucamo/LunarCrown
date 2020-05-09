@@ -56,7 +56,7 @@ Dots of War allows you to compete against players from all over the world and ap
 
 # LunarCrown
 
-LunarCrown is an independent video game studio based on Hermosillo Sonora México, founded on 2019 as the merge effort of various solo indie studio projects to publish polished and profesional games. Dots of War it's their first game and one of the first multiplayer games in Mexico.
+LunarCrown is an independent video game studio based on Hermosillo Sonora México, founded on 2019 as the merge effort of various solo indie studio projects to publish polished and profesional games. Dots of War it's their first game and one of the first online multiplayer games in Mexico.
 
 
 ### Game Design, 2D art 
