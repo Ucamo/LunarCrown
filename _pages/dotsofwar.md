@@ -29,12 +29,8 @@ Dots of War allows you to compete against players from all over the world and ap
 
 -------------------------------
 
-## LET'S BE FRIENDS ON FACEBOOK
-https://www.facebook.com/lunarcrown
+## <a href="https://www.facebook.com/lunarcrown">LET'S BE FRIENDS ON FACEBOOK</a>
 
-## FOLLOW US ON TWITTER
-https://www.twitter.com/LunarCrownGames/
+## <a href="https://www.twitter.com/LunarCrownGames/">FOLLOW US ON TWITTER</a>
 
-## OFFICIAL SITE
-http://www.lunarcrown.com/
-
+## <a href="http://www.lunarcrown.com/">OFFICIAL SITE</a>
