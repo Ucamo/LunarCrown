@@ -6,9 +6,9 @@ include_in_header: false
 
 # Dots of War - Connect the dots
 
-<br>
-## The new way to play connect the dots with a fantastic medieval twist.
-<br>
+
+## The new way to play connect the dots with a fantastic medieval twist
+
 
 The best game to demonstrate your skill with puzzles
 Dots of War is an addictive and competitive puzzle game (based on dots and boxes or Timbiriche) in which you have to connect points with lines to gain ground against your opponent.
@@ -29,12 +29,12 @@ Dots of War allows you to compete against players from all over the world and ap
 
 -------------------------------
 
-##LET'S BE FRIENDS ON FACEBOOK
-facebook.com/lunarcrown
+## LET'S BE FRIENDS ON FACEBOOK
+https://facebook.com/lunarcrown
 
-##FOLLOW US ON TWITTER
-twitter.com/LunarCrownGames
+## FOLLOW US ON TWITTER
+https://twitter.com/LunarCrownGames
 
-##OFFICIAL SITE
+## OFFICIAL SITE
 http://lunarcrown.com/
 
