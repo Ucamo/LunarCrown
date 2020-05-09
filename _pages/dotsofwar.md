@@ -14,8 +14,7 @@ include_in_header: true
 <a class="appStoreLink" href="{{site.appstore_link}}"><img class="appStore" src="https://raw.githubusercontent.com/Ucamo/LunarCrown/master/assets/appstore.png"></a>
 
 
-The best game to demonstrate your skill with puzzles
-Dots of War is an addictive and competitive puzzle game (based on dots and boxes or Timbiriche) in which you have to connect points with lines to gain ground against your opponent.
+Dots of War is an addictive and competitive puzzle game (based on dots and boxes / Timbiriche) in which you have to connect points with lines to gain ground against your opponent.
 Choose one of the three clans available to compete online.
 
 The objective is simple: Forming a square with four lines will capture the terrain, once you do it you will have an extra turn. You can use your ability to prevent your opponent from using combos!
