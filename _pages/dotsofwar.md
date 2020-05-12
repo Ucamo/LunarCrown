@@ -65,12 +65,12 @@ LunarCrown is an independent video game studio based on Hermosillo Sonora Méxic
 - José Miguel Agulo
 
 ### Art Director, 2D art
-- Roberto Carlos Nuñez López
+- <a href="https://www.instagram.com/carlosnlart/">Roberto Carlos Nuñez López</a>
 
 ### 3D art
-- Mariel Rojas Pérez
-- Sergio Mireles
+- <a href="https://www.instagram.com/rojasmariel/">Mariel Rojas Pérez</a>
+- <a href="https://www.artstation.com/smireles">Sergio Mireles</a>
 
 ### Programming
-- Antonio Martinez
-- Uriel Carrillo
+- <a href="https://gatomocho.com/">Antonio Martinez</a>
+- <a href="http://lunarcrown.com">Uriel Carrillo</a>
