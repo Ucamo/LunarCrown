@@ -45,6 +45,10 @@ features                                  :
   - title                                 : Features
     description                           : A fast paced combat between two players, collect bonus items to help you in the match.
     fontawesome_icon_name                 : puzzle-piece
+    
+  - title                                 : <a href="/blog.html">Blog</a>
+    description                           : Read our latest news
+    fontawesome_icon_name                 : rss
 
 
   - title                                 : # New Feature Title
