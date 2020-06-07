@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: page
 title: Blog
+include_in_header: true
 ---
 <h1>Latest Posts</h1>
 
