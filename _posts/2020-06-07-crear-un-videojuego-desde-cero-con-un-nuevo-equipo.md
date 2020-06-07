@@ -5,6 +5,7 @@ date: 2020-06-07
 ---
 
 <img width="50%" height="50%" src="https://66.media.tumblr.com/da00505f60b542ad7d01975049395f7a/tumblr_inline_p3woob3Pw41rs42jk_500.png">
+
 Durante el mes de Octubre de 2017 a enero de 2018 algunos miembros del grupo de usuarios de unity de Hermosillo Sonora México nos planteamos la idea de comenzar a desarrollar videojuegos por parte de la comunidad, esto involucra varios desafíos, en este post tratamos de narrar los puntos claves que tener en cuenta cuando se busca desarrollar un videojuego con un equipo de trabajo con el que nunca se ha trabajado antes.
 
 El videojuego que desarrollamos fué Hmoman Run, un juego del género runner para dispositivos móviles, disponible para iOs y Android. El equipo que trabajó en el proyecto fueron 10 personas, 2 de ellas se dedicaron a la música, 1 a los efectos de sonido, otros al diseño de los modelos 3D y arte, otros colaboraron con la experiencia de usuario y diseño de la interfáz de usuario, yo colaboré con las mecánicas básicas del juego.
