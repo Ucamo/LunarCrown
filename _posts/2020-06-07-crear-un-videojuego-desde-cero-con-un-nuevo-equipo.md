@@ -17,10 +17,10 @@ En cuanto al género, en esa misma reunión se decidió tras varias ideas. Las o
 
 Durante la definición de las características básicas del juego, se escucharon todas las ideas, pero se fueron descartando las que excedían la complejidad del proyecto, dado que pese a ser muy buenas ideas, ya sea por la falta de experiencia del equipo, o por que no le agregaba el suficiente valor para justificar el desarrollo, no podríamos seguir adelante con esa idea.
 
-Definir la fecha de entrega
+# Definir la fecha de entrega
 Al final de la reunión, antes de que todos salieran del lugar, quisimos recalcar la fecha de entrega, ya teníamos definidas las mecánicas básicas del juego, como íbamos a trabajar, pero quisimos sacar la cuenta de los días que faltaban para que se acabara el proyecto, con el fin de que la fecha les fuera más real. Definimos la fecha de entrega como el 14 de diciembre del 2017, justo antes de que todo el mundo saliera de vacaciones navideñas.
 
-Definir las tareas
+# Definir las tareas
 Después de definir el alcance teníamos una idea general de cuáles serían las posibles acciones que podría hacer el jugador y hasta donde llegaría el proyecto, en una reunión no presencial a través de Google Hangout platicamos acerca de las tareas que deberíamos de completar para terminar el juego y las anotamos en Trello.
 
 Empezamos desde las tareas más sencillas y las describimos con nombres generales o a manera de lista de deseos del tipo “El jugador puede moverse de izquierda a derecha”, “El jugador puede saltar”, “El jugador puede recolectar artículos”, “El jugador puede ganar”, “El jugador puede perder”. Conforme delimitamos cuales eran las actividades básicas que debía de cumplir el juego, pudimos continuar con las actividades que no eran necesarias pero queríamos implementar, cuidando siempre el no salirse del alcance como “Agregar música al ganar”, “Agregar música al perder”, “Diseñar el menú principal”, “Guardar el progreso del jugador”.
@@ -28,10 +28,12 @@ Empezamos desde las tareas más sencillas y las describimos con nombres generale
 En este paso, si alguien mencionaba alguna tarea que se saliera del alcance inicial, los otros miembros debían de procurar escuchar la propuesta y evaluar el valor que agregaría al proyecto, por ejemplo, se aceptarían tareas nuevas del tipo “Procurar que la experiencia de usuario del jugador sea cómoda al desplazarse por el menú de inicio”, mientras tanto “Que el jugador pueda disparar” se saldría del alcance y sería negada, ya que una nueva dinámica para el videojuego impactaría en distintas fases del desarrollo y áreas específicas como las mecánicas del juego, nuevos modelos para disparar, programación de los controles, pruebas, etc.
 
 <img width="50%" height="50%" src="https://66.media.tumblr.com/89849319ab3efb037b49edd293f7358a/tumblr_inline_p3wox3FXcb1rs42jk_500.png">
+
 # Seguimiento de las tareas
 Una vez que las tareas fueron creadas, y debido a la naturaleza del proyecto (Todos los miembros del equipo tienen un trabajo fijo de 8 horas por día y trabajan en sus tiempos libres en el proyecto) se decidió que cada quién se auto-asignara las tareas que le gustaría trabajar en ella y/o tuviera más habilidad para apoyar el proyecto. Esto nos permitió llevar el proyecto en un ambiente más relajado y auto-manejable en el que los miembros del equipo producían según su capacidad y disposición, así no hubo problemas sobre qué actividades debía de hacer quién ni tampoco se visualizó a algún integrante en particular como “líder del proyecto” lo que motivó de manera muy positivo a todo el equipo.
 
 <img width="50%" height="50%" src="https://66.media.tumblr.com/51daf9de4ce684bbfd55063777a80ddb/tumblr_inline_p3wopcSG5E1rs42jk_640.png">
+
 # Pruebas
 Se eligió un repositorio en Github en el que todo el proyecto se alojaría, así mismo, cada que una nueva implementación de una mecánica en particular se terminara, se creaba un build del proyecto y se ponía a disposición de manera interna entre el equipo de trabajo para escuchar la retroalimentación de todos, a su vez, algunos de estos builds los compartimos con amigos y familiares para escuchar las opiniones de personas que no estuvieran involucradas en el proyecto, las opiniones frescas son sumamente valiosas durante todo el ciclo del desarrollo de un videojuego.
 
@@ -53,6 +55,7 @@ Ese post fué la mejor publicidad que pudimos haber tenido.
 Debido al alcance que tiene Hermografía en la localidad, nuestro juego fué visible para personas de la ciudad, poco tiempo después, los medios de radio y televisión hicieron contacto con el Unity User Group HMO para hacernos una entrevista y a su vez, publicar esa nota en sus redes sociales.
 
 <img width="50%" height="50%" src="https://66.media.tumblr.com/ceb93d2cf49335d7713f8ad0b114dd25/tumblr_inline_p3wot1hFz21rs42jk_640.png">
+
 # Post mortem
 Con más de mil descargas entre iOs y Android, Hmoman Run superó las expectativas que teníamos sobre nuestro primer juego en conjunto, cumplió la función de aprendizaje de un equipo de trabajo descentralizado, remoto, y con poca experiencia en el desarrollo de videojuegos, y cumplió con creces la principal razón por la que decidimos hacerlo,dar a conocer el Unity User Group de nuestra ciudad. 
 
