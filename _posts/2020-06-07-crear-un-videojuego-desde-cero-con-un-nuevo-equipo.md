@@ -12,6 +12,7 @@ El videojuego que desarrollamos fué Hmoman Run, un juego del género runner par
 
 # Definir el alcance
 <img width="50%" height="50%" src="https://66.media.tumblr.com/7a46b467226b917e45109523eb0fb81d/tumblr_inline_p3woq9A5sC1rs42jk_640.png">
+
 En una pequeña reunión entre los interesados a crear el juego, nos encargamos de hacer una lluvia de ideas acerca de lo que queríamos lograr, el consenso general fue “Hacer un juego sencillo, pulirlo y publicarlo”. En esa lluvia de ideas se definió una terminación del proyecto, ya que todos los involucrados tenían un trabajo de tiempo completo y proyectos personales en los que trabajar, así que decidimos establecer firmemente el tiempo del fin del proyecto para no abusar del tiempo de los involucrados y a la vez, no terminar con un proyecto eterno, el tiempo del proyecto sería de 3 meses.
 
 En cuanto al género, en esa misma reunión se decidió tras varias ideas. Las opiniones de todos eran igual de válidas, si alguien tenía una idea para un juego (que generalmente, siempre se tiene) las exponía al grupo y se analizaba entre todos su viabilidad para el tiempo que se quería alcanzar, tras varias opciones optamos por un runner, y sobre ese runner se definió cuáles serían las mecánicas básicas que debería de cumplir.
