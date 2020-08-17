@@ -3,6 +3,7 @@ layout: post
 author: El_Tutsi
 date: 2020-06-07
 description: Tips para formar un equipo remoto de desarrollo de videojuegos
+image: https://66.media.tumblr.com/da00505f60b542ad7d01975049395f7a/tumblr_inline_p3woob3Pw41rs42jk_500.png
 ---
 
 <img width="50%" height="50%" src="https://66.media.tumblr.com/da00505f60b542ad7d01975049395f7a/tumblr_inline_p3woob3Pw41rs42jk_500.png">
