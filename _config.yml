@@ -116,5 +116,7 @@ collections:
 # Markdown rendering
 markdown: kramdown
 
+url: "http://lunarcrown.com"
 plugins:
   - jekyll-seo-tag
+   - jekyll-sitemap
