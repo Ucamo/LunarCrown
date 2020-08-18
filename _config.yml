@@ -46,7 +46,10 @@ features                                  :
     description                           : A fast paced combat between two players, collect bonus items to help you in the match.
     fontawesome_icon_name                 : puzzle-piece
     
-
+  - title                                 : Gameskeys
+    description                           : he best game to demonstrate your skill with puzzles.
+    fontawesome_icon_name                 : pencil-alt    
+    
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
