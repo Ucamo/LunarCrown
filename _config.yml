@@ -50,9 +50,13 @@ features                                  :
     description                           : The best game to demonstrate your skill with puzzles
     fontawesome_icon_name                 : pencil-alt
     
-   - title                                 : El Sol de Hermosillo [ES]
-    description                           :  Dots of War, el videojuego diseñado en estudio independiente de Hermosillo
+   - title                                : El Sol de Hermosillo [ES]
+    description                           : Dots of War, el videojuego diseñado en estudio independiente de Hermosillo
     fontawesome_icon_name                 : pencil-alt
+    
+   - title                                : #El Sol de Hermosillo [ES]
+    description                           : #Dots of War, el videojuego diseñado en estudio independiente de Hermosillo
+    fontawesome_icon_name                 : #pencil-alt
 
 
 
