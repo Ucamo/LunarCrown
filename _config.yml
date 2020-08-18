@@ -48,11 +48,11 @@ features                                  :
     
   - title                                 : <a href="https://gameskeys.net/top-offline-games-to-play-on-ios-hidden-gems/#Dots">Gameskeys</a>
     description                           : The best game to demonstrate your skill with puzzles.
-    fontawesome_icon_name                 : pencil-alt    
- 
-   - title                                 : <a href="https://www.elsoldehermosillo.com.mx/doble-via/dots-of-war-el-videojuego-disenado-en-estudio-independiente-de-hermosillo-5218240.html">El Sol de Hermosillo [ES]</a>
+    fontawesome_icon_name                 : pencil-alt
+    
+  - title                                 : <a href="https://www.elsoldehermosillo.com.mx/doble-via/dots-of-war-el-videojuego-disenado-en-estudio-independiente-de-hermosillo-5218240.html">El Sol de Hermosillo [ES]</a>
     description                           : Dots of War, el videojuego diseñado en estudio independiente de Hermosillo.
-    fontawesome_icon_name                 : pencil-alt 
+    fontawesome_icon_name                 : pencil-alt
     
 # Theme Settings
 topbar_color                              : "#000000"
